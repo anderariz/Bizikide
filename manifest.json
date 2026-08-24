@@ -1,0 +1,9 @@
+{
+  "name": "Komunitatea",
+  "short_name": "Komunitatea",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#006edb",
+  "description": "Gestión sencilla de comunidades de vecinos"
+}
